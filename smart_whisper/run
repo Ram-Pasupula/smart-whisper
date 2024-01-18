@@ -1,0 +1,1 @@
+docker run -p 8000:8000 -v /path/to/your/local/folder:/app your-image-name
